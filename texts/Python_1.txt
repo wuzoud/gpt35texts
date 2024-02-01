@@ -1,0 +1,15 @@
+ long
+
+Python is an incredibly powerful and versatile programming language that has revolutionized the way developers approach complex tasks. Developed by Guido van van Rossum in 1991, its flexibility of language, robustness of structure and immense library of modules have made it the go-to language for both big and small projects.
+
+One of the best aspects of Python is its portability. It is platform-independent, meaning that programs written in Python can be used on any platform with no modifications. It’s open source nature means that it’s free to download and use, eliminating the need for expensive licensing fees.
+
+Python’s breadth of uses is perhaps the most remarkable attribute of the language. It is used in many different fields such as finance, linguistics, machine learning and artificial intelligence. Python has become an essential skill for professionals working in web development, data science, software development and gaming. There are more than a hundred Python libraries and frameworks, allowing developers to quickly create robust applications and games. It has also emerged as the language of choice for a variety of research projects, providing researchers with powerful tools to experiment with different ideas and technologies.
+
+The language is extremely easy to learn and comprehend. It uses English keywords, which makes learning and using it relatively straightforward. Python is an object-oriented language which includes strong abstraction capabilities. This makes it easier for users to reuse and extend code, thus reducing development time and improving maintainability.
+
+Python is also very flexible and versatile when it comes to creating new features and customizing existing ones. It is heavily modular and allows developers to essentially create new languages using Python's extensive library of functions and modules. This flexibility allows for complex tasks to be developed in a fraction of the time they would take in another language.
+
+Python has a large and supportive community of developers around the world allowing developers to easily collaborate on complex problems. There are numerous online resources such as tutorials, discussion boards, and helpful websites to aid in learning this powerful language. Furthermore, more employers are beginning to demand python-usage of their software engineers and developers, making a knowledge of python a valuable asset.
+
+Python is a great starting point for developers of all skill levels. It's easy to learn syntax and extensive library of modules makes it a great tool for writing complex yet efficient applications. No matter what field or project you’re working on, Python has the flexibility and power to answer and adapt to many of your programming needs. If you’re looking for a starting point in software programming, look no further than Python.

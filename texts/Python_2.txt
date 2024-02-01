@@ -1,0 +1,19 @@
+
+
+Python is an interpreted, high-level, general-purpose programming language. Python was created by Guido van Rossum and first released in 1991. Python is a widely used, versatile language with a broad range of applications and is currently in its third version, Python 3. 
+
+Python was designed to be easily readable by humans and was created with a design philosophy which emphasizes readability, as well as making clear and concise code. It is also cross-platform and highly portable, meaning it can be used on a variety of operating systems and processors. 
+
+Python is an interpreted language, meaning that it is not compiled into an executable file prior to execution, and requires an interpreter to evaluate the source code line-by-line as it runs. This allows Python to have a much faster development cycle than languages which require compilation, which can be especially useful when developing complex applications rapidly. 
+
+Python has many features which make it particularly appealing as a programming language, the most significant of which being its extensive standard library. This library provides useful functions, modules and classes that can be used for a variety of tasks, such as connecting to databases, reading and writing files, and generating webpages. This makes Python a great choice for many purposes, and has led to its adoption by some of the world's leading organizations.
+
+Python is also an object-oriented language. This means that instead of writing code as a series of complex instructions, Python code is written in a way which defines objects representing data or operations, or both. This object-oriented design makes Python both powerful and easy to use.
+
+The combination of Python's simple syntax, comprehensive standard library and OOP capabilities make it an ideal language for use in a variety of applications, such as general purpose programming, scripting and software development. Python is widely used in scientific programming, web development, AI and machine learning, and scientific computing.
+
+The Python community is also widely regarded as one of the most friendly and supportive programming communities. This is largely due to the vast number of tutorials, guides and documentation available online, as well as open source libraries and frameworks that make it easier for developers of all skill levels to get started with Python. 
+
+Python also has a number of tools available for testing and debugging, as well as libraries for numerical and scientific computing. There are also a number of web frameworks available that can help developers to speed up development times and deploy applications quickly and easily.
+
+Python is a versatile, reliable and powerful programming language and is perfect for beginners wanting to get started in programming. Its simplified syntax and wide range of applications make it a great choice for experienced programmers as well, and its open source nature and vibrant community make it a great choice for software developers.
